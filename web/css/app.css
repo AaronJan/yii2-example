@@ -1,0 +1,20 @@
+.page-welcome > .container {
+  max-width: 800px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.page-register > .container {
+  max-width: 600px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.page-login > .container {
+  max-width: 600px;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+/*# sourceMappingURL=app.css.map */
